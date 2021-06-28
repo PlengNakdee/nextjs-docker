@@ -10,6 +10,7 @@ export default function Home() {
 
       <div>
         <p>Hello World</p>
+        <img src='http://placekitten.com/200/300' alt='kitten'/>
       </div>
     </div>
   )
